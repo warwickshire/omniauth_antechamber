@@ -1,0 +1,4 @@
+= omniauth_antechamber
+
+This gem provides an omni_auth strategy to authenticate via the WCC Antechamber
+authentication gateway.
